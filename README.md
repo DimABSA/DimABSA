@@ -4,11 +4,6 @@
 
 Aspect-Based Sentiment Analysis (ABSA) is an NLP task focused on identifying aspect terms and associated sentiment polarity within text. Following the success of previous SemEval ABSA tasks, Dimensional ABSA (DimABSA) introduces a novel sentiment representation using fine-grained, real-valued scores of valence (negative to positive) and arousal (low to high excitement), inspired by psychological theories.
 
-## Task Features
-
-* Utilizes real-valued valence and arousal scores for nuanced sentiment analysis.
-* Covers three distinct domains: customer reviews, financial reports, and stance detection.
-* Includes datasets in 16 languages across diverse regions, both high-resource and low-resource.
 
 ## Subtasks
 
