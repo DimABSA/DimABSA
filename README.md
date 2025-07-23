@@ -1,6 +1,5 @@
 # SemEval-2026 Task: Dimensional Aspect-Based Sentiment Analysis (DimABSA)
 
-## Overview
 
 Aspect-Based Sentiment Analysis (ABSA) aims to identify specific aspects or targets within a text and determine the corresponding sentiment polarity, traditionally using discrete categories such as positive, negative, or neutral (Pontiki et al., 2014; 2015; 2016). While this categorical approach has dominated ABSA research, it falls to capture the nuanced emotional gradations present in human language. 
 
