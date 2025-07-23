@@ -63,7 +63,7 @@ Given a textual instance, extract all triplets consisting of an aspect term, an 
 
 ### 3. Dimensional Aspect Sentiment Quad Prediction (DimASQP)
 
-Extract quadruplets (aspect term, aspect category, opinion term, valence-arousal score).
+Given a textual instance, extract all triplets consisting of an aspect term, an aspect category, an opinion term, and a valence-arousal (VA) score. This task is an extension of Subtask 2 (triplet extraction), with the addition of the aspect category element.
 
 **Example Input:**
 
