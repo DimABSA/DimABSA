@@ -38,7 +38,7 @@ Given a textual instance and one or more target aspects, predict a real-valued v
 
 ### 2. Dimensional Aspect Sentiment Triplet Extraction (DimASTE)
 
-Extract triplets (aspect term, opinion term, valence-arousal score).
+Given a textual instance, extract all triplets consisting of an aspect term, an opinion term, and a valence-arousal (VA) score.
 
 **Example Input:**
 
