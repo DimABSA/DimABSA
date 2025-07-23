@@ -87,6 +87,16 @@ Given a textual instance, extract all triplets consisting of an aspect term, an 
 ```
 
 
+
+# Dataset
+
+
+| No. | Language                | Code | DimASR                     | DimASTE            | DimASQP            |
+| --- | ----------------------- | ---- | -------------------------- | ------------------ | ------------------ |
+| 1   | Chinese                 | ZHO  | Restaurant, Laptop         | Restaurant, Laptop | Restaurant, Laptop |
+| 3   | English                 | ENG  | Restaurant, Laptop, Stance | Restaurant, Laptop | Restaurant, Laptop |
+
+
 # Languages, Tracks and Domain
 
 The table below lists the tracks and specifies the languages available in each track for the shared task. 
@@ -95,11 +105,12 @@ The table below lists the tracks and specifies the languages available in each t
 > Participants may choose to participate in one or more languages and tracks of their preference.
 
 
-| No. | Language                                                  | Code  | Track A | Track B | Track C |
-|-----|-----------------------------------------------------------|-------|---------|---------|---------|
-| 4   | [Chinese](https://en.wikipedia.org/wiki/Chinese_language) | CHN   |  ✓          | ✓           | ✓       |
-| 5   | [Emakhuwa](https://en.wikipedia.org/wiki/Makhuwa_language) | VMW   |    x    |        | ✓       |
-| 6   | [English](https://en.wikipedia.org/wiki/English_language) | ENG   |    ✓        |        | ✓       |
+
+
+| No. | Language                                                   | Code | Track A | Track B | Track C | Domain                     |
+| --- | ---------------------------------------------------------- | ---- | :-----: | :-----: | :-----: | -------------------------- |
+| 4   | [Chinese](https://en.wikipedia.org/wiki/Chinese_language)  | CHN  |    ✓    |    ✓    |    ✓    | Restaurant, Laptop         |
+| 6   | [English](https://en.wikipedia.org/wiki/English_language)  | ENG  |    ✓    |         |    ✓    | Restaurant, Laptop, Stance |
 
 
 **Legend**:  
