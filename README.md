@@ -11,7 +11,8 @@ Participants can choose to participate in one or more subtasks:
 
 ### 1. Dimensional Aspect Sentiment Regression (DimASR)
 
-Predict valence-arousal (VA) scores for specified aspects.
+Given a textual instance and one or more target aspects, predict a real-valued valence-arousal (VA) score for each aspect
+
 
 **Example Input:**
 
