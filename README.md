@@ -121,11 +121,6 @@ The table below lists the tracks and specifies the languages available in each t
 * Asian: Chinese, Japanese
 * European: English, German, Portuguese (Brazilian), Russian, Ukrainian, Tatar
 
-## Domains
-
-* Customer Reviews (Restaurants, Laptops, Hotels)
-* Financial Reports
-* Stance Detection (Environmental Issues)
 
 ## Important Dates
 
@@ -138,10 +133,12 @@ The table below lists the tracks and specifies the languages available in each t
 
 For inquiries, please contact: \[Task Organizers' Contact Information]
 
+We need to create Google group.
+
 ## Organizers
 
 \[List of Task Organizers and Affiliations]
 
 ## References
 
-Detailed references are available in the task description document.
+
