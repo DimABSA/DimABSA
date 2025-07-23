@@ -88,17 +88,6 @@ Given a textual instance, extract all triplets consisting of an aspect term, an 
 
 
 
-# Dataset
-
-
-| No. | Language                | Code | Track A (DimASR)                    |  Track B( DimASTE)            |  Track C (DimASQP)            |
-| --- | ----------------------- | ---- | -------------------------- | ------------------ | ------------------ |
-| 1   | Chinese                 | ZHO  | Restaurant, Laptop         | Restaurant, Laptop | Restaurant, Laptop |
-| 2   | English                 | ENG  | Restaurant, Laptop, Stance | Restaurant, Laptop | Restaurant, Laptop |
-| 3   |                  |   |  |  |  |
-| 4   |                  |   |  |  |  |
-
-
 
 # Languages, Tracks and Domain
 
@@ -108,12 +97,13 @@ The table below lists the tracks and specifies the languages available in each t
 > Participants may choose to participate in one or more languages and tracks of their preference.
 
 
+| No. | Language                | Code | Track A (DimASR)                    |  Track B( DimASTE)            |  Track C (DimASQP)            |
+| --- | ----------------------- | ---- | -------------------------- | ------------------ | ------------------ |
+| 1   | Chinese                 | ZHO  | Restaurant, Laptop         | Restaurant, Laptop | Restaurant, Laptop |
+| 2   | English                 | ENG  | Restaurant, Laptop, Stance | Restaurant, Laptop | Restaurant, Laptop |
+| 3   |                  |   |  |  |  |
+| 4   |                  |   |  |  |  |
 
-
-| No. | Language                                                   | Code | Track A | Track B | Track C | Domain                     |
-| --- | ---------------------------------------------------------- | ---- | :-----: | :-----: | :-----: | -------------------------- |
-| 4   | [Chinese](https://en.wikipedia.org/wiki/Chinese_language)  | CHN  |    ✓    |    ✓    |    ✓    | Restaurant, Laptop         |
-| 6   | [English](https://en.wikipedia.org/wiki/English_language)  | ENG  |    ✓    |         |    ✓    | Restaurant, Laptop, Stance |
 
 
 **Legend**:  
