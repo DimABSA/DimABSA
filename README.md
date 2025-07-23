@@ -86,7 +86,25 @@ Given a textual instance, extract all triplets consisting of an aspect term, an 
 }
 ```
 
-## Languages Covered
+
+# Languages, Tracks and Domain
+
+The table below lists the tracks and specifies the languages available in each track for the shared task. 
+
+
+> Participants may choose to participate in one or more languages and tracks of their preference.
+
+
+| No. | Language                                                  | Code  | Track A | Track B | Track C |
+|-----|-----------------------------------------------------------|-------|---------|---------|---------|
+| 4   | [Chinese](https://en.wikipedia.org/wiki/Chinese_language) | CHN   |  ✓          | ✓           | ✓       |
+| 5   | [Emakhuwa](https://en.wikipedia.org/wiki/Makhuwa_language) | VMW   |    x    |        | ✓       |
+| 6   | [English](https://en.wikipedia.org/wiki/English_language) | ENG   |    ✓        |        | ✓       |
+
+
+**Legend**:  
+- **✓**: The language is supported for the specified track.
+- **✗**: The language is not supported for the specified track.
 
 * African: Emakhuwa, Hausa, Igbo, Kinyarwanda, Mozambican Portuguese, Swahili, Twi, Xhosa
 * Asian: Chinese, Japanese
